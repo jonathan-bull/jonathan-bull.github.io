@@ -1,0 +1,59 @@
+.header {
+	margin-bottom:1rem;
+}
+.the-bg {
+	background-color: #a61930;
+	color: white;
+	padding-top: 1rem;
+	padding-bottom: 2rem;
+	border-top: 0.5rem solid #520b17;
+	border-bottom: 0.5rem solid #520b17;
+}
+
+.the-bg p {
+	margin-top: 1rem;
+	font-size: 2rem;
+}
+
+.team-list {
+	width:39%;
+	display: inline-block;
+}
+
+.team-list h2 {
+	margin: 0 0 1.5rem;
+	padding: 1rem;
+}
+
+.pos {
+	width: 19%;
+	display: inline-block;
+}
+
+
+.wales {
+	background-color: #E91C28;
+	color: #ffffff;
+	border-bottom: 1rem solid #008147;
+}
+
+.england {
+	border-bottom: 1rem solid #a61930;
+	background-color: #ffffff;
+	color: #000000;
+}
+
+.name-reload {
+	background-color: #eeeeee;
+	border-bottom: 0.25rem solid #e0e0e0;
+	padding: 1.5rem;
+	cursor: pointer;
+}
+
+.name-reload p {
+	width: 25%;
+	margin: 1.5rem auto;
+	
+	font-size: 2rem;
+	font-weight: 600;
+}
